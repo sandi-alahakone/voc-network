@@ -1,2 +1,3 @@
-#ABOUT
-#app by Sandi Alahakone :)
+ABOUT
+
+app by Sandi Alahakone :)
